@@ -1,0 +1,5 @@
+Ezek kellenek még:
+https://www.java.com/en/download/
+https://www.apachefriends.org/hu/download.html
+a második linket miután telepítettük is azután el kell indítani és rányomni a Start gombra ennél a kettőnél: 
+	Apache és MySQL
